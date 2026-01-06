@@ -1,5 +1,6 @@
 // app/page.tsx
 import Link from "next/link";
+import { DadoHubLogo } from "./components/DadoHubLogo";
 
 const nav = [
   { href: "#what", label: "O que é" },
@@ -137,7 +138,7 @@ export default function Page() {
           <div className="flex h-14 items-center justify-between">
             <Link href="/" className="flex items-center gap-2">
               <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg border border-white/10 bg-white/5 text-sm font-semibold">
-                DH
+                <DadoHubLogo className="h-8 w-8 text-white" />
               </span>
               <span className="text-sm font-semibold tracking-tight">DadoHub</span>
             </Link>
