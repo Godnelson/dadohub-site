@@ -414,7 +414,7 @@ export default function Page() {
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
                 <div className="rounded-xl border border-white/10 bg-[#0B0D10]/60 p-5">
                   <div className="text-xs text-white/60">Email</div>
-                  <div className="mt-1 text-sm font-semibold">contato@dadohub.com</div>
+                  <div className="mt-1 text-sm font-semibold">contato@dadohub.com.br</div>
                 </div>
                 <div className="rounded-xl border border-white/10 bg-[#0B0D10]/60 p-5">
                   <div className="text-xs text-white/60">LinkedIn</div>
