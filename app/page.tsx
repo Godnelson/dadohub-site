@@ -424,7 +424,7 @@ export default function Page() {
 
               <div className="mt-8 flex flex-wrap gap-3">
                 <a
-                  href="mailto:seuemail@dominio.com"
+                  href="mailto:contato@dadohub.com.br"
                   className="rounded-lg bg-emerald-400 px-5 py-2.5 text-sm font-semibold text-black hover:bg-emerald-300 transition"
                 >
                   Enviar email
